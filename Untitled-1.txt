@@ -1,0 +1,38 @@
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" rel="stylesheet" />
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" rel="stylesheet" />
+<link crossorigin="anonymous" href="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/style.css" rel="stylesheet" /><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous">
+</script><script src="https://www.gstatic.com/charts/loader.js">
+</script><script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/config.js" >
+</script><script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/common.js" >
+</script>
+
+
+
+<link href="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/style.css" rel="stylesheet" type="text/css" />
+<script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/config.js" >
+</script><script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/82415a4e98605267/common.js" >
+</script><script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/82415a4e98605267/script_company_access.js" >
+</script>
+
+
+<link href="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/style.css" rel="stylesheet" type="text/css" /><script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/config.js" >
+</script><script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/common.js" >
+</script><script src="https://demoprivatewealthsg.xplan.iress.com.sg/docnote/files/279e47d50e79c47b/script_all_client_orders.js" >
+</script>
+
+
+<script src="https://havenportwealth.com/hvpapi/xplan_modules/xplan/config.js" >
+</script><script src="https://havenportwealth.com/hvpapi/xplan_modules/xplan/common.js" >
+</script><script src="https://havenportwealth.com/hvpapi/xplan_modules/xplan/targetsets.js" >
+</script><script src="https://havenportwealth.com/hvpapi/xplan_modules/xplan/line_reader.js" >
+</script><script src="https://hvp.havenportwealth.com/havenportwealth/docnote/files/fecdcc0d4080438b/script_group_update.js" >
+</script>
+
+
+
+
+<p><select id="model_list"><option value=""></option> </select> <select id="sale_charges"> <script src="https://havenportwealth.com/hvpapi/xplan_modules/xplan/config.js" >
+</script><script src="https://havenportwealth.com/hvpapi/xplan_modules/xplan/common.js" >
+</script><script src="https://havenportwealth.com/hvpapi/xplan_modules/xplan/targetsets.js" >
+</script><script src="https://hvp.havenportwealth.com/havenportwealth/docnote/files/7d979d4e97723332/script_wizard_model_page_1.js" >
+</script> </select></p>

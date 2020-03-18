@@ -1,0 +1,99 @@
+<style type="text/css">.content {
+        background-color: #efefef;
+    }
+
+    #msg-box {
+        text-align: center;
+    }
+
+    .msg {
+        display: block;
+        border-radius: 5px;
+        margin: 10px 30%;
+        padding: 5px;
+    }
+
+    .msg-info {
+        border: 1px solid #cdcdcd;
+        background-color: #ffffaa;
+    }
+
+
+    /*custom styles */
+
+    .list-cell {
+        display: table-cell;
+        padding: 5px;
+        border-bottom: 1px solid #efefef;
+    }
+
+    .list-row {
+        display: table-row;
+    }
+
+    .list-row-disabled {
+        display: table-row;
+    }
+
+    .list-row:hover {
+        background-color: #cdcdcd;
+    }
+
+    .list-container {
+        display: table;
+        width: 100%;
+    }
+
+    .loader {
+        border: 3px solid #AAAAAA;
+        border-radius: 50%;
+        border-top: 3px solid #333333;
+        width: 15px;
+        height: 15px;
+        -webkit-animation: spin 1s linear infinite;
+        animation: spin 1s linear infinite;
+        display: none;
+    }
+
+    @-webkit-keyframes spin {
+        0% {
+            -webkit-transform: rotate(0deg);
+        }
+        100% {
+            -webkit-transform: rotate(360deg);
+        }
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+</style>
+<div class="custom-mod" id="mod-cache-update">
+<div id="client-list">
+<h2 id="title">&nbsp;</h2>
+
+<div>
+<table class="form">
+	<tbody>
+		<tr>
+			<td align="right">&nbsp;</td>
+			<td><button id="btn-start">Start Process</button><button id="btn-pause" style="display:none">Pause</button><button id="btn-restart" style="display:none">Resume</button></td>
+			<td>
+			<div class="loader" id="loader">&nbsp;</div>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div id="msg-box">&nbsp;</div>
+
+<div><textarea id="output" readonly="readonly" style="width:95%; height:400px; border-radius:3px; font-family:courier new"></textarea></div>
+</div>
+</div>
